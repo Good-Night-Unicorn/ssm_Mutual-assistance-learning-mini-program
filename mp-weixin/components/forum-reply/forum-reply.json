@@ -1,6 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "user-reply": "/components/forum-reply/forum-reply"
-  }
-}
